@@ -1,0 +1,13 @@
+.register .login-container {
+    margin-top: 6rem;
+}
+.register .usertype {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.register .active {
+    color: #fff;
+    background-color: #FF004C;
+}
