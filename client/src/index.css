@@ -13,14 +13,78 @@ code {
   font-family: "Poppins", sans-serif;
 }
 
-/* 
 :root {
-  --clr-primary-white : #fff;
-  --clr-secondary-white : #fff;
+    /* fonts */
+    --font-poppins: Poppins;
   
-  --clr-primary-black : #202020;
-  --clr-secondary-black : #000;
-} */
+    /* font sizes */
+    --font-size-5xl: 24px;
+  
+    /* Colors */
+    --color-crimson: #ff004c;
+    --color-white: #fff;
+    --color-gray: #202020;
+    --color-snow: #fff8fa;
+  
+    /* Gaps */
+    --gap-139xl: 158px;
+    --gap-0: 0px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-sm: 14px;
+    --padding-30xl: 49px;
+  
+    /* Border radiuses */
+    --br-2xl: 21px;
+    --font-poppins: Poppins;
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-lgi: 19px;
+    --font-size-15xl-4: 34.4px;
+    --font-size-base: 16px;
+    --font-size-sm: 14px;
+  
+    /* Colors */
+    --color-ghostwhite: #f5f6fa;
+    --color-crimson-100: #ff004d;
+    --color-crimson-200: #ff004c;
+    --color-white: #fff;
+    --color-gray-100: #202020;
+    --color-snow: #fff8fa;
+    --color-slategray: #5a607f;
+    --color-lightsteelblue: #a1a7c4;
+    --color-lavender: #d9e1ec;
+  
+    /* Gaps */
+    --gap-139xl: 158px;
+    --gap-0: 0px;
+    --gap-base: 16px;
+    --gap-xl: 20px;
+    --gap-166xl: 185px;
+    --gap-21xl: 40px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-sm: 14px;
+    --padding-18xl: 37px;
+    --padding-79xl: 98px;
+    --padding-19xl: 38px;
+    --padding-30xl: 49px;
+    --padding-29xl: 48px;
+    --padding-xs: 12px;
+    --padding-base: 16px;
+  
+    /* Border radiuses */
+    --br-2xl: 21px;
+    --br-8xl-9: 27.9px;
+    --br-xl: 20px;
+    --br-xs: 12px;
+    --br-9xs: 4px;
+  }
+  
 
 /* Box sizing rules */
 *,
